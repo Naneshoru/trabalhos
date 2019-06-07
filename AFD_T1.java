@@ -7,8 +7,7 @@
 import java.util.Scanner;
 /**
  * @author  Ricardo Atakiama    10262482
- *          Felipe Rabachute    10349529
- *          Victor Grecca       10392185
+ *          Vitor Sobral        10368969
  */
 
 class AutomatoFinito {

@@ -5,8 +5,7 @@
 
 /**
 * @author  Ricardo Atakiama - 10262482
-*          Felipe Rabachute Veloso - 10349529
-*          Victor Hugo de Lima Grecca - 10392185
+*     
 */
 
 import java.io.BufferedReader;

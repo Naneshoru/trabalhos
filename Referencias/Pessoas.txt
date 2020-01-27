@@ -5,6 +5,11 @@ Programação
 	Filipe Deschamps			Nerd
 	Paulo Silveira			Alura
 	Jarvis Johnson			ex-SE, humor
+	Marcos Kutova			ALG II
+	Marcelo Fantinato 		Engenharia de Software
+	Rodrigo Pagliares	  		APOO
+Maths
+	Cláudia Cavalheiro 		IPO
 Filosofia
 	Leandro Karnal			Historiador, Filósofo
 	Copini				
@@ -29,4 +34,10 @@ Religião
 Minimalismo
 	Nate  O'Brien			
 Bike	
-	Renata Falzoni			
+	Renata Falzoni		
+
+
+
+
+
+

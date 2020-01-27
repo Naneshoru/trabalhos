@@ -1,0 +1,19 @@
+0 Glassdoor - avaliações de empresas
+
+1 Quora  -plataforma de dúvidas e respostas
+
+2 Responde aí - material/aulas engenharia (Calculo I, CN, EST)
+
+3 Symbolab  - Resolução de derivadas e integrais
+
+4 Geogebra - Gráficos de funções
+
+5 Jornada do Dev - cursos grátis
+
+6 Jflap - Autômatos e gramáticas
+
+7 Udemy - cursos grátis ( Terminal Linux, SO Linux, Intro à Python)
+
+8 Wolfram Alpha - info's gerais
+
+9 Latex  - modulador de texto(foco no conteúdo em detrimento da forma)~
